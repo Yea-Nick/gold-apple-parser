@@ -33,6 +33,7 @@
 
 ```
 git clone https://github.com/Yea-Nick/gold-apple-parser.git
+cd ./gold-apple-parser
 ```
 
 ### 2. Установка зависимостей

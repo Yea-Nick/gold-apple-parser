@@ -65,7 +65,7 @@ npm run start:prod
     https://goldapple.ru/front/api/catalog/products-by-sku?locale=ru
    ```
 5. Скопируйте значение **Cookie** из заголовков запроса
-6. Вставьте cookie в файл **`cookie.txt`**
+6. Вставьте cookie в файл **`./files/cookie.txt`**
 
 > ⚠️ Cookie имеют ограниченный срок действия
 
@@ -73,7 +73,7 @@ npm run start:prod
 
 ### 2. Добавление ссылок на продукты
 
-Вставьте ссылки на нужные продукты в файл **`links.txt`**,
+Вставьте ссылки на нужные продукты в файл **`./files/links.txt`**,
 каждая ссылка — с новой строки.
 
 Пример:
@@ -87,7 +87,7 @@ https://goldapple.ru/99800700002-green-tea-pure-cleansing-balm
 
 ### 3. Результат работы
 
-После запуска проекта результат будет сохранён в файл **`products.txt`**.
+После запуска проекта результат будет сохранён в файл **`./files/products.txt`**.
 
 Формат вывода:
 

@@ -96,7 +96,7 @@ https://goldapple.ru/99800700002-green-tea-pure-cleansing-balm
 ```txt
 ГИДРОФИЛЬНЫЙ БАЛЬЗАМ ДЛЯ ЛИЦА;BHAB;slowchaga essential;BHAB slowchaga essential;2 160 р.;3 600 р.;19000394954;https://pcdn.goldapple.ru/p/p/19000394954/web/696d674d61696e5064708ddc5cd81a76f0bfullhd.jpg
 ОЧИЩАЮЩИЙ БАЛЬЗАМ С ЗЕЛЁНЫМ ЧАЕМ;YADAH;green tea pure cleansing balm;YADAH green tea pure cleansing balm;1 080 р.;2 077 р.;99800700002;https://pcdn.goldapple.ru/p/p/99800700002/web/696d674d61696e5064708ddc407c7ca026bfullhd.jpg
-```txt
+```
 
 ---
 
